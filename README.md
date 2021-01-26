@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**rodrigomartind/rodrigomartind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working as Sr Android Engineer @ MercadoLibre
+- 🌱 I’m currently learning to detect metals ⛏
+- 💬 Ask me about sleep many hours, The Simpsons, Breaking Bad, Cobra Kai, Android Development, and something of ConstraintLayout & MotionLayout 🚀
+- 📫 How to reach me:
 
-Here are some ideas to get you started:
+     E-Mail: rodrigomartind@gmail.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+     Linkedin: https://www.linkedin.com/in/rodrigo-martin-dominguez-463b5a33/ 
+
+     Twitter: https://twitter.com/RodrigoMartinD 
+
+     Medium: https://rodrigomartind.medium.com/
+
