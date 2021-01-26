@@ -1,15 +1,17 @@
-### Hi there 👋
+### Hi, my name is Rodrigo Dominguez 👋
 
 - 🔭 I’m currently working as Sr Android Engineer @ MercadoLibre
 - 🌱 I’m currently learning to detect metals ⛏
 - 💬 Ask me about sleep many hours, The Simpsons, Breaking Bad, Cobra Kai, Android Development, and something of ConstraintLayout & MotionLayout 🚀
 - 📫 How to reach me:
 
-     E-Mail: rodrigomartind@gmail.com 
+     - [E-Mail](rodrigomartind@gmail.com)
 
-     Linkedin: https://www.linkedin.com/in/rodrigo-martin-dominguez-463b5a33/ 
+     - [Linkedin](https://www.linkedin.com/in/rodrigo-martin-dominguez-463b5a33/) 
 
-     Twitter: https://twitter.com/RodrigoMartinD 
+     - [Twitter](https://twitter.com/RodrigoMartinD) 
 
-     Medium: https://rodrigomartind.medium.com/
+     - [Medium](https://rodrigomartind.medium.com/)
+
+     - [YouTube](https://www.youtube.com/channel/UCBs51OPI3dU1hv9yQZ6BOHA)
 
