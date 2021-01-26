@@ -4,15 +4,15 @@
 I'm a Android Developer with more than six years of experience.</br>
 In 2014 I created my first screen with a button that showed a Toast 😛.</br>
 In 2015 I started my first work as Android Developer 🎮.</br>
-In 2016 I crashed App in production from a big Bank from Argentina (several times) 🤣.</br>
+In 2016 I crashed App in production from a big [Bank](https://play.google.com/store/apps/details?id=com.mosync.app_Banco_Galicia) from Argentina (several times) 🤣.</br>
 In 2017 I founded [CerveChat](https://play.google.com/store/apps/details?id=com.rodrigodominguez.cervezapp), a social network for beer fan 🍻.</br>
-In 2018 I generated impact on millions and millions of people with a travel App in LATAM ✈️</br>
-In 2019 I am part of the fintech war in LATAM (currently here) 💳.</br>
-In 2020 I merged my first contribution in Google (in ConstraintLayout library) 😍. Google contacted me to work with them, but "pasaron cosas" (if you would like to know what happened I will tell you privately).😭😭😭😭.</br>
-In 2021 I will like have more than 1000 suscriptors in my channel of youtube 🥰.</br>
+In 2018 I generated impact on millions and millions of people with a travel [App](https://play.google.com/store/apps/details?id=com.gm.despegar) in LATAM ✈️</br>
+In 2019 I am part of the fintech war in LATAM [(currently here)](https://play.google.com/store/apps/details?id=com.mercadopago.wallet) 💳.</br>
+In 2020 I merged my first [contribution](https://github.com/androidx/constraintlayout/pull/39) in Google (in ConstraintLayout library) 😍. Google contacted me to work with them, but "pasaron cosas" (if you would like to know what happened I will tell you privately).😭😭😭😭.</br>
+In 2021 I will like have more than 1000 suscriptors in my [channel](https://youtube.com/channel/UCBs51OPI3dU1hv9yQZ6BOHA) of youtube 🥰.</br>
 
 ## Present
-- 🔭 I’m currently working as Sr Android Engineer @ MercadoLibre
+- 🔭 I’m currently working as Sr Android Engineer @ [MercadoLibre](https://www.mercadolibre.com.ar)
 - 🌱 I’m currently learning to detect metals ⛏
 - 💬 Ask me about sleep many hours, The Simpsons, Breaking Bad, Cobra Kai, Android Development, and something of ConstraintLayout & MotionLayout 🚀
 - ⚽️ River Plate 🇦🇷
