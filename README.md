@@ -15,10 +15,10 @@ In 2021 I will like have more than 1000 suscriptors in my channel of youtube �
 - 🔭 I’m currently working as Sr Android Engineer @ MercadoLibre
 - 🌱 I’m currently learning to detect metals ⛏
 - 💬 Ask me about sleep many hours, The Simpsons, Breaking Bad, Cobra Kai, Android Development, and something of ConstraintLayout & MotionLayout 🚀
-- ⚽️ River Plate
-- 🏀 San Antonio Spurs
-- 🎾 Roger Federer
-- 🏆 9/12/2018
+- ⚽️ River Plate 🇦🇷
+- 🏀 San Antonio Spurs 🇺🇲
+- 🎾 Roger Federer 🇨🇭
+- 🏆 9/12/2018 🏟️ 🇪🇸
 
 
 ## Skills:
