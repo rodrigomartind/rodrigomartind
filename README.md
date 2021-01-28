@@ -14,7 +14,7 @@ In 2021 I would like to have more than 1000 suscriptors in my Youtube [channel](
 ## Present
 - 🔭 I’m currently working as Sr Android Engineer @ [MercadoLibre](https://www.mercadolibre.com.ar)
 - 🌱 I’m currently learning to detect metals ⛏
-- 💬 Ask me about sleep many hours, The Simpsons, Breaking Bad, Cobra Kai, Android Development, and something of ConstraintLayout & MotionLayout 🚀
+- 💬 Ask me about sleep many hours, Jurassic Park, The Simpsons, Breaking Bad, Cobra Kai, Android Development, and something of ConstraintLayout & MotionLayout 🚀
 - ⚽️ River Plate 🇦🇷
 - 🏀 San Antonio Spurs 🇺🇲
 - 🎾 Roger Federer 🇨🇭
