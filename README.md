@@ -9,7 +9,7 @@ In 2017 I founded [CerveChat](https://play.google.com/store/apps/details?id=com.
 In 2018 I generated impact on millions and millions of people with a travel [App](https://play.google.com/store/apps/details?id=com.gm.despegar) in LATAM ✈️</br>
 In 2019 I am part of the fintech war in LATAM [(currently here)](https://play.google.com/store/apps/details?id=com.mercadopago.wallet) 💳.</br>
 In 2020 I merged my first [contribution](https://github.com/androidx/constraintlayout/pull/39) in Google (in ConstraintLayout library) 😍. Google contacted me to work with them, but "pasaron cosas" (if you would like to know what happened I will tell you privately) 😭😭😭😭.</br>
-In 2021 I would like to have more than 1000 suscriptors in my Youtube [channel](https://youtube.com/channel/UCBs51OPI3dU1hv9yQZ6BOHA) 🥰.</br>
+In 2021 I merged my first feature in [Google](https://github.com/androidx/constraintlayout/pull/129).I would like to have more than 1000 suscriptors in my Youtube [channel](https://youtube.com/channel/UCBs51OPI3dU1hv9yQZ6BOHA) 🥰.</br>
 
 ## Present
 - 🔭 I’m currently working as Sr Android Engineer @ [MercadoLibre](https://www.mercadolibre.com.ar)
