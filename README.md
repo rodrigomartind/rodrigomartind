@@ -49,9 +49,8 @@ In 2021 I merged my first feature in [Google](https://github.com/androidx/constr
 </br>
 [![YouTube](https://img.shields.io/badge/YouTube-Hermanos_Binarios-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UCBs51OPI3dU1hv9yQZ6BOHA)
 
-
-
-
-
 ## Contact me:
 [![Email](https://img.shields.io/badge/rodrigomartind@gmail.com-my_personal_email-EC5252?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:rodrigomartind@gmail.com)
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=rodrigomartind" alt="rodrigomartind" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rodrigomartind&show_icons=true" alt="rodrigomartind" /></p>
