@@ -1,31 +1,48 @@
-# Hi, my name is Rodrigo Dominguez 👋
+# Hi, my name is Rodrigo Dominguez 👋 (Open to Work 💚)
+
+## Summary
+Experienced Android Engineer with a passion for creating seamless user experiences. Proven track record of delivering high-quality mobile applications for major companies in the industry. Currently seeking new opportunities to contribute to innovative projects.
+
 
 ## Resume
-I'm a Android Developer with more than six years of experience.</br>
+I'm a Android Engineer with more than seven years of experience.</br>
 In 2014 I created my first screen with a button that showed a Toast 😛.</br>
 In 2015 I started my first work as Android Developer 🎮.</br>
 In 2016 I crashed App in production from a big [Bank](https://play.google.com/store/apps/details?id=com.mosync.app_Banco_Galicia) from Argentina (several times) 🤣.</br>
 In 2017 I founded [CerveChat](https://play.google.com/store/apps/details?id=com.rodrigodominguez.cervezapp), a social network for beer fan 🍻.</br>
-In 2018 I generated impact on millions and millions of people with a travel [App](https://play.google.com/store/apps/details?id=com.gm.despegar) in LATAM ✈️</br>
-In 2019 I am part of the fintech war in LATAM [(currently here)](https://play.google.com/store/apps/details?id=com.mercadopago.wallet) 💳.</br>
+In 2018 I generated impact on millions and millions of people with a travel App [(Despegar)](https://play.google.com/store/apps/details?id=com.gm.despegar) in LATAM ✈️</br>
+In 2019 I'm part of the fintech war in LATAM [(Mercado Libre)](https://play.google.com/store/apps/details?id=com.mercadopago.wallet) 💳.</br>
 In 2020 I merged my first [contribution](https://github.com/androidx/constraintlayout/pull/39) in Google (in ConstraintLayout library) 😍.</br>
 In 2021 I merged my first feature in [Google](https://developer.android.com/reference/androidx/constraintlayout/helper/widget/CircularFlow).</br>
-In 2022..
-</br>
-In 2023..
+In 2022 I took on the exciting challenge of building screens with Jetpack Compose at [Kavak.com](https://www.kavak.com/) 🚀.</br>
+In 2023 I'm dedicated to continuous learning and actively seeking new challenges to further develop my skills and contribute to innovative projects 🌱💡.</br>
+
+
+## My contributions
+- **2021**:
+  - [Medium article about animations in Android](https://medium.com/droid-latam/creando-un-carrusel-con-motionlayout-f93285f4000c)
+  - [Medium article explaining the feature added to the Android ConstraintLayout library](https://rodrigomartind.medium.com/exploring-helper-circularflow-6ef168abf4fe)
+  - [Medium article about the experience of using MotionLayout in the NFC payment flow at Mercado Libre](https://medium.com/mercadolibre-tech/our-experience-using-motionlayout-in-nfc-payments-ec4d92205d98)
+
+- **2023**:
+  - [Medium article about small yet impactful animations with Jetpack Compose](https://medium.com/@rodrigomartind/the-art-of-small-animations-in-android-with-jetpack-compose-566caa94deba?source=your_stories_page)
+
+## Featured Projects
+- [Dynamic Island](https://github.com/rodrigomartind/DynamicIslandWithMotionLayoutCompose): Samples of Dynamic Island with MotionLayout in Jetpack Compose.
+- [Compose MotionLayout](https://github.com/rodrigomartind/ComposeMotionLayoutSamples): Samples of animations with MotionLayout in Jetpack Compose.
+- [MixMotiomLayout](https://github.com/rodrigomartind/MixAnimationsMotionLayout): Kit of differents animations with MotionLayout in XML.
+- [TinderMotionLayout](https://github.com/rodrigomartind/TinderMotionLayout): Sample of MotionLayout with animation like Tinder app.
 
 
 ## Present
-- 🔭 I’m currently working as Sr Android Engineer @ [Kavak.com](https://www.kavak.com/), previously [Mercado Libre](https://www.mercadolibre.com) & [Despegar](https://www.despegar.com)
+- 🔭 I’m currently Open to Work, previously [Kavak.com](https://www.kavak.com/), [Mercado Libre](https://www.mercadolibre.com) & [Despegar](https://www.despegar.com)
 - 🌱 I’m currently learning to detect metals ⛏
-- 💬 Ask me about sleep many hours, Jurassic Park, The Simpsons, Breaking Bad, Cobra Kai, Android Development, and something of ConstraintLayout & MotionLayout 🚀
+- 💬 Ask me about sleep optimization, Jurassic Park, The Simpsons, Breaking Bad, Cobra Kai, Android Development, and the intricacies of ConstraintLayout & MotionLayout 🚀
 - ⚽️ River Plate 🇦🇷
-- 🎾 Roger Federer 🇨🇭
-- 🏆 9/12/2018 🏟️ 🇪🇸
+- 🎾 Carlos Alcaraz 🇪🇸
 
 
 ## Skills:
-
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
