@@ -21,7 +21,7 @@ In 2023 I'm dedicated to continuous learning and actively seeking new challenges
 ## My contributions
 - **2021**:
   - [Medium article about animations in Android](https://medium.com/droid-latam/creando-un-carrusel-con-motionlayout-f93285f4000c)
-  - [Medium article explaining the feature added to the Android ConstraintLayout library](https://rodrigomartind.medium.com/exploring-helper-circularflow-6ef168abf4fe)
+  - [Medium article explaining the feature that I added to the Android ConstraintLayout library](https://rodrigomartind.medium.com/exploring-helper-circularflow-6ef168abf4fe)
   - [Medium article about the experience of using MotionLayout in the NFC payment flow at Mercado Libre](https://medium.com/mercadolibre-tech/our-experience-using-motionlayout-in-nfc-payments-ec4d92205d98)
 
 - **2023**:
@@ -30,7 +30,7 @@ In 2023 I'm dedicated to continuous learning and actively seeking new challenges
 ## Featured Projects
 - [Dynamic Island](https://github.com/rodrigomartind/DynamicIslandWithMotionLayoutCompose): Samples of Dynamic Island with MotionLayout in Jetpack Compose.
 - [Compose MotionLayout](https://github.com/rodrigomartind/ComposeMotionLayoutSamples): Samples of animations with MotionLayout in Jetpack Compose.
-- [MixMotiomLayout](https://github.com/rodrigomartind/MixAnimationsMotionLayout): Kit of differents animations with MotionLayout in XML.
+- [MixMotionLayout](https://github.com/rodrigomartind/MixAnimationsMotionLayout): Kit of differents animations with MotionLayout in XML.
 - [TinderMotionLayout](https://github.com/rodrigomartind/TinderMotionLayout): Sample of MotionLayout with animation like Tinder app.
 
 
