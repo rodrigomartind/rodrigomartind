@@ -1,24 +1,26 @@
-# Hi, my name is Rodrigo Dominguez 👋 (Open to Work 💚)
+# 👨‍💻 Rodrigo Dominguez - Android Engineer
+## I'm an Android Engineer with more than 9 years of experience. 🚀
+### 🔭 I’m currently working at [Uala](https://uala.com.ar) as Android Tech Lead, previously [Kavak.com](https://www.kavak.com/), [Mercado Libre](https://www.mercadolibre.com) & [Despegar](https://www.despegar.com)
 
-## Summary
+
+## 📝 Summary
 Experienced Android Engineer with a passion for creating seamless user experiences. Proven track record of delivering high-quality mobile applications for major companies in the industry. Currently seeking new opportunities to contribute to innovative projects.
 
 
-## Resume
-I'm a Android Engineer with more than seven years of experience.</br>
-In 2014 I created my first screen with a button that showed a Toast 😛.</br>
-In 2015 I started my first work as Android Developer 🎮.</br>
-In 2016 I crashed App in production from a big [Bank](https://play.google.com/store/apps/details?id=com.mosync.app_Banco_Galicia) from Argentina (several times) 🤣.</br>
-In 2017 I founded [CerveChat](https://play.google.com/store/apps/details?id=com.rodrigodominguez.cervezapp), a social network for beer fan 🍻.</br>
-In 2018 I generated impact on millions and millions of people with a travel App [(Despegar)](https://play.google.com/store/apps/details?id=com.gm.despegar) in LATAM ✈️</br>
-In 2019 I'm part of the fintech war in LATAM [(Mercado Libre)](https://play.google.com/store/apps/details?id=com.mercadopago.wallet) 💳.</br>
-In 2020 I merged my first [contribution](https://github.com/androidx/constraintlayout/pull/39) in Google (in ConstraintLayout library) 😍.</br>
-In 2021 I merged my first feature in [Google](https://developer.android.com/reference/androidx/constraintlayout/helper/widget/CircularFlow).</br>
-In 2022 I took on the exciting challenge of building screens with Jetpack Compose at [Kavak.com](https://www.kavak.com/) 🚀.</br>
-In 2023 I'm dedicated to continuous learning and actively seeking new challenges to further develop my skills and contribute to innovative projects 🌱💡.</br>
+## 📆 My Journey
+2014: Created my first screen with a button that showed a Toast 😛.</br>
+2015: Started my first job as an Android Developer 🎮.</br>
+2016: Crashed a production app for a major [Bank](https://play.google.com/store/apps/details?id=com.mosync.app_Banco_Galicia) in Argentina (several times) 🤣.</br>
+2017: Founded [CerveChat](https://play.google.com/store/apps/details?id=com.rodrigodominguez.cervezapp), a social network for beer enthusiasts 🍻.</br>
+2018: Made an impact on millions of users with a travel app [Despegar](https://play.google.com/store/apps/details?id=com.gm.despegar) across LATAM ✈️.</br>
+2019: Became part of the fintech war in LATAM at [Mercado Libre](https://play.google.com/store/apps/details?id=com.mercadopago.wallet) 💳.</br>
+2020: Merged my first [contribution](https://github.com/androidx/constraintlayout/pull/39) to Google (ConstraintLayout library) 😍.</br>
+2021: Merged my first feature into [Google](https://developer.android.com/reference/androidx/constraintlayout/helper/widget/CircularFlow).</br>
+2022: Took on the exciting challenge of building screens with Jetpack Compose at [Kavak.com](https://www.kavak.com/) 🚀.</br>
+2023: Began working as an Android Tech Lead at [Ualá](https://uala.com.ar), continuing my commitment to continuous learning and actively seeking new challenges to develop my skills and contribute to innovative projects 🌱💡.</br>
+2024: Continuing my role at Ualá, contributing to the enhancement of our development quality.</br>
 
-
-## My contributions
+##  ⚒️ My contributions
 - **2021**:
   - [Medium article about animations in Android](https://medium.com/droid-latam/creando-un-carrusel-con-motionlayout-f93285f4000c)
   - [Medium article explaining the feature that I added to the Android ConstraintLayout library](https://rodrigomartind.medium.com/exploring-helper-circularflow-6ef168abf4fe)
@@ -27,22 +29,13 @@ In 2023 I'm dedicated to continuous learning and actively seeking new challenges
 - **2023**:
   - [Medium article about small yet impactful animations with Jetpack Compose](https://medium.com/@rodrigomartind/the-art-of-small-animations-in-android-with-jetpack-compose-566caa94deba?source=your_stories_page)
 
-## Featured Projects
+## 📲 Featured Projects
 - [Dynamic Island](https://github.com/rodrigomartind/DynamicIslandWithMotionLayoutCompose): Samples of Dynamic Island with MotionLayout in Jetpack Compose.
 - [Compose MotionLayout](https://github.com/rodrigomartind/ComposeMotionLayoutSamples): Samples of animations with MotionLayout in Jetpack Compose.
 - [MixMotionLayout](https://github.com/rodrigomartind/MixAnimationsMotionLayout): Kit of differents animations with MotionLayout in XML.
 - [TinderMotionLayout](https://github.com/rodrigomartind/TinderMotionLayout): Sample of MotionLayout with animation like Tinder app.
 
-
-## Present
-- 🔭 I’m currently Open to Work, previously [Kavak.com](https://www.kavak.com/), [Mercado Libre](https://www.mercadolibre.com) & [Despegar](https://www.despegar.com)
-- 🌱 I’m currently learning to detect metals ⛏
-- 💬 Ask me about sleep optimization, Jurassic Park, The Simpsons, Breaking Bad, Cobra Kai, Android Development, and the intricacies of ConstraintLayout & MotionLayout 🚀
-- ⚽️ River Plate 🇦🇷
-- 🎾 Carlos Alcaraz 🇪🇸
-
-
-## Skills:
+## 💡 Skills:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
@@ -59,7 +52,7 @@ In 2023 I'm dedicated to continuous learning and actively seeking new challenges
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white&labelColor=101010)]()
 
-## Find me at:
+## 🔎 Find me at:
 [![Medium](https://img.shields.io/badge/Medium-@rodrigomartind-9146FF?style=for-the-badge&logo=medium&logoColor=white&labelColor=101010)](https://rodrigomartind.medium.com/)
 [![Twitter](https://img.shields.io/badge/Twitter-@rodrigomartind-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/RodrigoMartinD)
 [![Instagram](https://img.shields.io/badge/Instagram-@rodrigomartind-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/rodrigomartind)
@@ -69,7 +62,7 @@ In 2023 I'm dedicated to continuous learning and actively seeking new challenges
 </br>
 [![YouTube](https://img.shields.io/badge/YouTube-Hermanos_Binarios-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UCBs51OPI3dU1hv9yQZ6BOHA)
 
-## Contact me:
+## 💬 Contact me:
 [![Email](https://img.shields.io/badge/rodrigomartind@gmail.com-my_personal_email-EC5252?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:rodrigomartind@gmail.com)
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=rodrigomartind" alt="rodrigomartind" /></p>
